@@ -98,48 +98,36 @@ See [`data/README.md`](data/README.md) for more information on the data structur
 - **Geographical analysis:** Visualizes job demand across European countries.
 - **Interactive visualizations:** Word clouds, bar charts, treemaps, and choropleth map.
 
----
-
 ## 📚 References
 
-1. **Crumpler, W., & Lewis, J. A. (2019). The Cybersecurity Workforce Gap.**  
-   [CSIS Report](https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/190129_Crumpler_Cybersecurity_FINAL.pdf)  
+1. **Crumpler, W., & Lewis, J. A. (2019).** [The Cybersecurity Workforce Gap](https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/190129_Crumpler_Cybersecurity_FINAL.pdf)  
    *A comprehensive report analyzing the global shortage of cybersecurity professionals and its implications for organizations and governments.*
 
-2. **Alshaikh, M., Maynard, S. B., Ahmad, A., & Chang, S. (2021). Cybersecurity skills gap: A state-of-the-art review.**  
-   [Education and Information Technologies](https://link.springer.com/article/10.1007/s10639-021-10704-y)  
+2. **Alshaikh, M., Maynard, S. B., Ahmad, A., & Chang, S. (2021).** [Cybersecurity skills gap: A state-of-the-art review](https://link.springer.com/article/10.1007/s10639-021-10704-y)  
    *A scholarly review of the cybersecurity skills gap, examining causes, impacts, and potential solutions in education and industry.*
 
-3. **ACM (2024). Cybersecurity Workforce: Trends and Challenges.**  
-   [ACM Digital Library](https://dl.acm.org/doi/abs/10.1145/3664476.3670468)  
+3. **ACM (2024).** [Cybersecurity Workforce: Trends and Challenges](https://dl.acm.org/doi/abs/10.1145/3664476.3670468)  
    *Discusses current trends, challenges, and future directions in the cybersecurity workforce, based on recent research and industry data.*
 
-4. **SciDirect (2025). Cybersecurity labor market analysis using job postings.**  
-   [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0167404825000185?ref=pdf_download&fr=RR-2&rr=943c3ca06dba5b00)  
+4. **SciDirect (2025).** [Cybersecurity labor market analysis using job postings](https://www.sciencedirect.com/science/article/pii/S0167404825000185?ref=pdf_download&fr=RR-2&rr=943c3ca06dba5b00)  
    *Presents a data-driven analysis of the cybersecurity labor market using job posting data to identify demand and skill trends.*
 
-5. **SciDirect (2021). Skills and competencies in cybersecurity: A systematic review.**  
-   [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0160791X2100244X)  
+5. **SciDirect (2021).** [Skills and competencies in cybersecurity: A systematic review](https://www.sciencedirect.com/science/article/pii/S0160791X2100244X)  
    *A systematic review of required skills and competencies in cybersecurity, highlighting gaps between education and industry needs.*
 
-6. **SciDirect (2022). Automated analysis of cybersecurity job postings.**  
-   [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0167404822004746)  
+6. **SciDirect (2022).** [Automated analysis of cybersecurity job postings](https://www.sciencedirect.com/science/article/pii/S0167404822004746)  
    *Explores methods for automated extraction and analysis of cybersecurity job postings to inform workforce development.*
 
-7. **Frontiers (2018). Soft skills and cybersecurity: A psychological perspective.**  
-   [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00744/full)  
+7. **Frontiers (2018).** [Soft skills and cybersecurity: A psychological perspective](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00744/full)  
    *Examines the importance of soft skills in cybersecurity roles from a psychological viewpoint.*
 
-8. **AISNet (2021). Mining job postings for cybersecurity skills.**  
-   [AIS Electronic Library](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=2000&context=jise)  
+8. **AISNet (2021).** [Mining job postings for cybersecurity skills](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=2000&context=jise)  
    *Describes techniques for mining job postings to identify in-demand cybersecurity skills and trends.*
 
-9. **IACIS (2019). Cybersecurity education and workforce development.**  
-   [IACIS](https://iacis.org/iis/2019/2_iis_2019_62-72.pdf)  
+9. **IACIS (2019).** [Cybersecurity education and workforce development](https://iacis.org/iis/2019/2_iis_2019_62-72.pdf)  
    *Focuses on the relationship between cybersecurity education programs and workforce needs.*
 
-10. **ERIC (2020). Cybersecurity workforce development: A review.**  
-    [ERIC](https://files.eric.ed.gov/fulltext/EJ1246234.pdf)  
+10. **ERIC (2020).** [Cybersecurity workforce development: A review](https://files.eric.ed.gov/fulltext/EJ1246234.pdf)  
     *Reviews strategies and challenges in developing the cybersecurity workforce, with recommendations for educators and policymakers.*
 
 ---
