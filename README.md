@@ -31,8 +31,8 @@ ds-lab-pr/
 
 **Data Folder Structure:**
 - Each iteration folder (`1/`, `2/`, ...) contains:
-  - Raw LinkedIn job data (`li_jobs.json`)
-  - Translated data (`tr_li_jobs.json`)
+  - Raw LinkedIn job data (`li_jobs.json`) - merged version
+  - Translated data (`tr_li_jobs.json`) - output
   - Subfolders by scrape date with original JSONs
 
 ---
@@ -96,7 +96,7 @@ See [`data/README.md`](data/README.md) for more information on the data structur
 - **Deduplication:** Ensures unique job postings.
 - **Skill extraction:** Standardizes and analyzes required skills.
 - **Geographical analysis:** Visualizes job demand across European countries.
-- **Interactive visualizations:** Word clouds, bar charts, treemaps, and choropleth maps.
+- **Interactive visualizations:** Word clouds, bar charts, treemaps, and choropleth map.
 
 ---
 
