@@ -39,7 +39,7 @@ ds-lab-pr/
 
 ## 📊 Data Collection & Processing
 
-- **Source:** LinkedIn job postings, scraped weekly using [ScrapeJob – LinkedIn Jobs Scraper](https://linkedin.scrapejob.net/).
+- **Source:** Job postings accross EU.
 - **Languages:** Multiple European languages, translated to English for consistency.
 - **Preprocessing:** Deduplication, cleaning, and normalization of job titles, descriptions, and skills.
 - **Merging:** Iterative merging of new data into a unified dataset (`data/data.json`).
