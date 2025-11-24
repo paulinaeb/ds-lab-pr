@@ -66,7 +66,7 @@ ds-lab-pr/
    ```
 
 4. **Download the dataset:**
-   - Download from [this link](https://drive.google.com/drive/folders/1urAJnf09u8cNFBN0kFm_UZH3Lhh8oBRa?usp=sharing)
+   - Download or create your own dataset.
    - Place the extracted files in the `/data` folder, preserving the folder structure.
 
 ---
