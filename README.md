@@ -100,35 +100,25 @@ See [`data/README.md`](data/README.md) for more information on the data structur
 
 ## 📚 References
 
-1. **Crumpler, W., & Lewis, J. A. (2019).** [The Cybersecurity Workforce Gap](https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/190129_Crumpler_Cybersecurity_FINAL.pdf)  
-   *A comprehensive report analyzing the global shortage of cybersecurity professionals and its implications for organizations and governments.*
+1. Blažič, B. J. (2022). *Changing the landscape of cybersecurity education in the EU: Will the new approach produce the required cybersecurity skills?* Education and Information Technologies, 27, 3011–3036. https://doi.org/10.1007/s10639-021-10704-y
 
-2. **Alshaikh, M., Maynard, S. B., Ahmad, A., & Chang, S. (2021).** [Cybersecurity skills gap: A state-of-the-art review](https://link.springer.com/article/10.1007/s10639-021-10704-y)  
-   *A scholarly review of the cybersecurity skills gap, examining causes, impacts, and potential solutions in education and industry.*
+2. Crumpler, W., & Lewis, J. A. (2019). *The Cybersecurity Workforce Gap.* Center for Strategic and International Studies (CSIS). https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/190129_Crumpler_Cybersecurity_FINAL.pdf
 
-3. **ACM (2024).** [Cybersecurity Workforce: Trends and Challenges](https://dl.acm.org/doi/abs/10.1145/3664476.3670468)  
-   *Discusses current trends, challenges, and future directions in the cybersecurity workforce, based on recent research and industry data.*
+3. Dawson, J., & Thomson, R. (2018). *The future cybersecurity workforce: Going beyond technical skills for successful cyber performance.* Frontiers in Psychology, 9, Article 744. https://doi.org/10.3389/fpsyg.2018.00744
 
-4. **SciDirect (2025).** [Cybersecurity labor market analysis using job postings](https://www.sciencedirect.com/science/article/pii/S0167404825000185?ref=pdf_download&fr=RR-2&rr=943c3ca06dba5b00)  
-   *Presents a data-driven analysis of the cybersecurity labor market using job posting data to identify demand and skill trends.*
+4. Jumaan, S., Kuzminykh, I., Xiao, H., & Ghita, B. V. (2025). *Understanding the skills gap between higher education and industry in cybersecurity.* ResearchGate. https://www.researchgate.net/publication/395473023
 
-5. **SciDirect (2021).** [Skills and competencies in cybersecurity: A systematic review](https://www.sciencedirect.com/science/article/pii/S0160791X2100244X)  
-   *A systematic review of required skills and competencies in cybersecurity, highlighting gaps between education and industry needs.*
+5. Marquardson, J., & Elnoshokaty, A. (2020). *Skills, certifications, or degrees: What companies demand for entry-level cybersecurity jobs.* Information Systems Education Journal, 18(1), 22–28. https://files.eric.ed.gov/fulltext/EJ1246234.pdf
 
-6. **SciDirect (2022).** [Automated analysis of cybersecurity job postings](https://www.sciencedirect.com/science/article/pii/S0167404822004746)  
-   *Explores methods for automated extraction and analysis of cybersecurity job postings to inform workforce development.*
+6. Peslak, A., & Hunsinger, D. S. (2019). *What is cybersecurity and what cybersecurity skills are employers seeking?* Issues in Information Systems, 20(2), 62–72. https://iacis.org/iis/2019/2_iis_2019_62-72.pdf
 
-7. **Frontiers (2018).** [Soft skills and cybersecurity: A psychological perspective](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00744/full)  
-   *Examines the importance of soft skills in cybersecurity roles from a psychological viewpoint.*
+7. Ramezan, C. A. (2023). *Examining the cyber skills gap: An analysis of cybersecurity positions by sub-field.* Journal of Information Systems Education, 34(1), 94–105. https://aisel.aisnet.org/jise/vol34/iss1/8
 
-8. **AISNet (2021).** [Mining job postings for cybersecurity skills](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=2000&context=jise)  
-   *Describes techniques for mining job postings to identify in-demand cybersecurity skills and trends.*
+8. Ricci, S., Parker, S., Jerabek, J., Danidou, Y., Chatzopoulou, A., Badonnel, R., Lendák, I., & Janout, V. (2024). *Understanding cybersecurity education gaps in Europe.* IEEE Transactions on Education, 67(2), 190–200. https://doi.org/10.1109/TE.2023.3340868
 
-9. **IACIS (2019).** [Cybersecurity education and workforce development](https://iacis.org/iis/2019/2_iis_2019_62-72.pdf)  
-   *Focuses on the relationship between cybersecurity education programs and workforce needs.*
+9. Takács, J. M., & Pogátsnik, M. (2024). *The presence of cybersecurity competencies in the engineering education of Generation Z.* Acta Polytechnica Hungarica, 21(6), 107–127.
 
-10. **ERIC (2020).** [Cybersecurity workforce development: A review](https://files.eric.ed.gov/fulltext/EJ1246234.pdf)  
-    *Reviews strategies and challenges in developing the cybersecurity workforce, with recommendations for educators and policymakers.*
+10. Zivanovic, M., Lendák, I., & Popovic, R. (2024). *Tackling the cybersecurity workforce gap with tailored cybersecurity study programs in Central and Eastern Europe.* In Proceedings of the 19th International Conference on Availability, Reliability and Security (ARES 2024) (pp. 1–8). ACM. https://doi.org/10.1145/3664476.3670468
 
 ---
 
